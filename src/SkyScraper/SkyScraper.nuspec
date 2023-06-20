@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>SkyScraper</id>
+        <version>$version$</version>
+        <title>SkyScraper</title>
+        <authors>Jon Canning</authors>
+        <owners />
+        <projectUrl>https://github.com/JonCanning/SkyScraper</projectUrl>
+        <iconUrl>http://www.beronza.com/images/SkyscrapersIcon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Web scraper / crawler / spider. Supports robots protocol and user agent.</description>
+		<tags>spider crawler scraper bot</tags>
+    </metadata>
+</package>
