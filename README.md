@@ -18,5 +18,3 @@ Usage
     scraper.ObserverLinkFilter = new Regex("things"); //optional - trigger observers when link matches
     scraper.DisableRobotsProtocol = true; //optional
     scraper.Scrape(new Uri("http://www.mywebsite.com/")).Wait();
-
-
